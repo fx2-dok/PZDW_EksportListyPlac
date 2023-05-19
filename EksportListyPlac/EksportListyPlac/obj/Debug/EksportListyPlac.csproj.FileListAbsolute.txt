@@ -1,0 +1,10 @@
+C:\Users\dawid\source\repos\PZDW\EksportListyPlac\bin\Debug\EksportListyPlac.deps.json
+C:\Users\dawid\source\repos\PZDW\EksportListyPlac\bin\Debug\EksportListyPlac.dll
+C:\Users\dawid\source\repos\PZDW\EksportListyPlac\bin\Debug\EksportListyPlac.pdb
+C:\Users\dawid\source\repos\PZDW\EksportListyPlac\EksportListyPlac\obj\Debug\EksportListyPlac.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\PZDW\EksportListyPlac\EksportListyPlac\obj\Debug\EksportListyPlac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\PZDW\EksportListyPlac\EksportListyPlac\obj\Debug\EksportListyPlac.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\PZDW\EksportListyPlac\EksportListyPlac\obj\Debug\EksportListyPlac.AssemblyInfo.cs
+C:\Users\dawid\source\repos\PZDW\EksportListyPlac\EksportListyPlac\obj\Debug\EksportListyPlac.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\PZDW\EksportListyPlac\EksportListyPlac\obj\Debug\EksportListyPlac.dll
+C:\Users\dawid\source\repos\PZDW\EksportListyPlac\EksportListyPlac\obj\Debug\EksportListyPlac.pdb
